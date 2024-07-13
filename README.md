@@ -31,11 +31,11 @@ This project is an initial prototype developed for the Myntra HackerRamp We for 
 
 1. **Clone the repository:**
 
-      git clone [https://github.com/your-username/vibecheck-chatroom.git](https://github.com/ananyaa19/Vibecheck_chatroom.git)
+            git clone [https://github.com/your-username/vibecheck-chatroom.git](https://github.com/ananyaa19/Vibecheck_chatroom.git)
 
 2. **Install dependencies:**
 
-      npm install
+            npm install
 
 3.**Start the server**
 
