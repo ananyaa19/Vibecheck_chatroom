@@ -23,7 +23,7 @@ Deployment: GitHub Pages
 Setup Instructions
 
 1.Clone the repository:
-git clone https://github.com/your-username/vibecheck-chatroom.git
+git clone [https://github.com/your-username/vibecheck-chatroom.git](https://github.com/ananyaa19/Vibecheck_chatroom.git)
 
 2.Install dependencies:
 npm install
