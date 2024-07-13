@@ -33,7 +33,6 @@ This project is an initial prototype developed for the Myntra HackerRamp We for 
 
 git clone [https://github.com/your-username/vibecheck-chatroom.git](https://github.com/ananyaa19/Vibecheck_chatroom.git)
 
-
 2. **Install dependencies:**
 
 npm install
@@ -43,9 +42,9 @@ npm install
 cd backend
 npm run start
 
-4. **Start the frontend**
+4.**Start the frontend**
    
-   // open new terminal
-   cd frontend
-   start run dev
+// open new terminal
+cd frontend
+start run dev
 
