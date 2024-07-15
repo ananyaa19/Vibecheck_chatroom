@@ -71,7 +71,7 @@ nav a {
 }
 
 .search-bar button {
-  background-color: #333;
+  background-color: grey;
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -349,5 +349,25 @@ html{
 }
 
 button{
+  background-color: grey !important;
+}
+
+.css-14ft38c-control{
+  background-color: grey !important;
+}
+div#react-select-2-listbox.css-1jj59y3-MenuList2{
+  background-color: grey !important;
+}
+.css-1i837h3-ValueContainer2{
+  background-color: grey !important;
+}
+.css-1s2s82g-control{
+  background-color: grey !important;
+}
+.css-1dcp14w-option{
+  background-color: grey !important;
+}
+
+.css-1s2s82g-control{
   background-color: grey !important;
 }
